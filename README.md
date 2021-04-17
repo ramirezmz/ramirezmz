@@ -5,10 +5,11 @@
 
 # Hello, My name is Roberto Ramirez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>I’m an Front-end developer 🧑‍💻. 
-I'm looking for my first job as a software developer, <p/>
-<p>I love to build things!<p/>
-<p>and I consider myself a responsible, determined and creative person for problem solving. <p/>
+<h3>Front-end developer 🧑‍💻.</h3>
+<p> I was born in Lima, Perú, but I have been in Brazil. I'm married and have a son.<p/>
+<p>Student of Systems Analysis and Development and involved in programming since the end of 2019. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge of Front-end and Back-end.<p/>
+
+<p>I look for the opportunity to apply my skills to software development, and work together to exchange knowledge!  <p/>
 
 **"I know I don't know everything, but I know that by striving, I will find the knowledge."**
 
