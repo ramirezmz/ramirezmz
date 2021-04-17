@@ -1,6 +1,6 @@
 # Hello, My name is Roberto Ramirez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>I’m an aspirant Full-Stack developer 🧑‍💻. 
+<p>I’m an Front-end developer 🧑‍💻. 
 I'm looking for my first job as a software developer, <p/>
 <p>I love to build things!<p/>
 <p>and I consider myself a responsible, determined and creative person for problem solving. <p/>
