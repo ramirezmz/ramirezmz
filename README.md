@@ -1,3 +1,8 @@
+<p align="center">
+<img width="20%" src="./Pictures/wasting_time.gif" />
+</p>
+
+
 # Hello, My name is Roberto Ramirez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>I’m an Front-end developer 🧑‍💻. 
@@ -9,10 +14,10 @@ I'm looking for my first job as a software developer, <p/>
 
 ## About me
 
-* <img width="16" src="https://www.flaticon.com/svg/vstatic/svg/197/197563.svg?token=exp=1617507718~hmac=f375f626251fccf7e182ccb257246291" alt="Peru" /> I'm from Peru, but I live in Brazil.
+* <img width="16" src="./Pictures/peru-pn.png" alt="Peru" /> I'm from Peru, but I live in Brazil.
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript.
-* 💻Love Programming, eat, and drink Coke.
-* <img width="20" src="https://www.flaticon.com/svg/vstatic/svg/226/226772.svg?token=exp=1617509136~hmac=2f8a3c5d916a9ca7448b23c82ef39cb0" alt="linux"/> I like Terminal.
+* 💻 I Love Programming, eat, and drink Coke.
+* <img width="20" src="./Pictures/linux-ico.png" alt="linux"/> Someone taught me the Linux world in 2019 and so far I can't change it as my default operating system.
 
 <br>
 <br>
