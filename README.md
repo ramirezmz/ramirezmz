@@ -1,17 +1,30 @@
-<p align="center">
-<img width="70%" src="./Pictures/wasting_time.gif" />
-</p>
+<h1> Hello, My name is Roberto Ramirez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align="center"></p>
+
+<h3>Front-end developer Jr🧑‍💻.</h3>
+<img align="right" alt="GIF" src="./Pictures/wasting_time.gif" width="500" height="350" />
+
+<p>I'm student of Systems Analysis and Development and involved in programming since the end of 2019. I began to program with python, at University learned a little bit C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.<p/>
+
+**I looking for my first job how developer software!**</br>
+<a href="https://www.linkedin.com/in/ramirezmz/">
+  <img align="left" alt="Ramirez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a></br>
+
+<a>"Never give up on your dreams, run after, fight, because whoever fights wins, whoever waits reaches..."</a>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
 
 
-# Hello, My name is Roberto Ramirez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3>Front-end developer 🧑‍💻.</h3>
-<p> I was born in Lima, Perú, but I have been in Brazil. I'm married and have a son.<p/>
-<p>Student of Systems Analysis and Development and involved in programming since the end of 2019. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge of Front-end and Back-end.<p/>
-
-<p>I look for the opportunity to apply my skills to software development, and work together to exchange knowledge!  <p/>
-
-**"I know I don't know everything, but I know that by striving, I will find the knowledge."**
 
 ## About me
 
@@ -22,17 +35,5 @@
 
 <br>
 <br>
-
-## Languages and Tools: 
-
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript<p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> C++ <p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python <p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React, React Native<p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Nodejs <p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> Firebase <p/>
-<p><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git <p/>
-
-
 
 
