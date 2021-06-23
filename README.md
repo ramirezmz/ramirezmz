@@ -8,9 +8,9 @@
 <h3>Front-end developer Jr🧑‍💻.</h3>
 <img align="right" alt="GIF" src="./Pictures/wasting_time.gif" width="500" height="350" />
 
-<p>My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I began to program with python, at University learned a little bit C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.<p/>
+<p>My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I began to program at University with python and C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.<p/>
 
-**I looking for my first job how developer software!**</br>
+**I'm looking for my First job as a developer software**</br>
 
 <a>"Never give up on your dreams, run after, fight, because whoever fights wins, whoever waits reaches..."</a>
 
