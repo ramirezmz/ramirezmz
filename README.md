@@ -1,6 +1,6 @@
-# **Hello friend** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1> Hello friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-## Front-end developer Jr🧑‍💻
+<h2> Software developer Jr🧑‍💻 </h2>
 <a href="https://www.linkedin.com/in/ramirezmz/">
   <img align="left" alt="Ramirez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a></br>
