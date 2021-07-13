@@ -25,6 +25,7 @@
 <code><img height="30" title="Styled components" src="https://img.icons8.com/emoji/48/000000/nail-polish-.png"></code>
 <code><img height="30" title="Linux" src="https://img.icons8.com/color/48/000000/linux--v2.png"/></code>
 <code><img height="30" title="Mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<code><img height="30" title="Docker" src="https://img.icons8.com/fluent/48/000000/docker.png"/></code>
 
 ## About me
 
