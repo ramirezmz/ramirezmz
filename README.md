@@ -16,25 +16,26 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
-
-
-
+<code><img height="30" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" title="Reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" title="Styled components" src="https://img.icons8.com/emoji/48/000000/nail-polish-.png"></code>
+<code><img height="30" title="Linux" src="https://img.icons8.com/color/48/000000/linux--v2.png"/></code>
+<code><img height="30" title="Mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
 
 ## About me
 
 * <img width="16" src="./Pictures/peru-pn.png" alt="Peru" /> I'm from Peru, but I live in Brazil.
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript.
-* 💻 I Love Programming, eat, and drink Coke.
+* 💻 I Love Programming, and drink Coke.
 * <img width="20" src="./Pictures/linux-ico.png" alt="linux"/> Someone taught me the Linux world in 2019 and so far I can't change it as my default operating system.
 
 <br>
-<br>
+### My Github data
 
+-📜 21 Public Repositories 
 
+-🔑 3 Private Repositories  
