@@ -1,16 +1,16 @@
-<h1>Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+# **Hello friend** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"></p>
+## Front-end developer Jr🧑‍💻
 <a href="https://www.linkedin.com/in/ramirezmz/">
-  <img align="left" alt="Ramirez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ramirez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a></br>
 
-<h3>Front-end developer Jr🧑‍💻.</h3>
-<img align="right" alt="GIF" src="./Pictures/wasting_time.gif" width="500" height="350" />
 
-<p>My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I began to program at University with python and C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.<p/>
+<img align="right" alt="GIF" src="./Pictures/wasting_time.gif" width="450" height="300" />
 
-**I'm looking for my First job as a developer software**</br>
+My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I began to program at University with python and C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.
+
+<p align="center">I'm looking for my First job as a developer software</p>
 
 <a>"Never give up on your dreams, run after, fight, because whoever fights wins, whoever waits reaches..."</a>
 
@@ -27,15 +27,15 @@
 <code><img height="30" title="Mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
 <code><img height="30" title="Docker" src="https://img.icons8.com/fluent/48/000000/docker.png"/></code>
 
-## About me
+## **About me**
 
 * <img width="16" src="./Pictures/peru-pn.png" alt="Peru" /> I'm from Peru, but I live in Brazil.
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript.
 * 💻 I Love Programming, and drink Coke.
 * <img width="20" src="./Pictures/linux-ico.png" alt="linux"/> Someone taught me the Linux world in 2019 and so far I can't change it as my default operating system.
 
-<br>
-### My Github data
+
+### **My Github data**
 
 -📜 21 Public Repositories 
 
