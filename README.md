@@ -1,4 +1,4 @@
-<h1> Hello friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h2> Software developer Jr🧑‍💻 </h2>
 <a href="https://www.linkedin.com/in/ramirezmz/">
@@ -8,11 +8,9 @@
 
 <img align="right" alt="GIF" src="./Pictures/wasting_time.gif" width="450" height="300" />
 
-My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I began to program at University with python and C++, but my passion is Javascript. I carry out and collaborate on projects autonomously with the desire to put into practive my knowledge and learn from other people.
+My name is Roberto Ramirez! I'm 23 years old and of Peruvian nationality, but I have been in Brazil for 5 years. Through my wife's influence, I learned how to make my first lines of code and I believe I can't stop with this hobby. I love to learn, talk and listen to!
+I try to be objective and dedicated to achieve everything I propose.
 
-<p align="center">I'm looking for my First job as a developer software</p>
-
-<a>"Never give up on your dreams, run after, fight, because whoever fights wins, whoever waits reaches..."</a>
 
 **Languages and Tools:**  
 
@@ -32,11 +30,11 @@ My name is Roberto Ramirez! I'm student of Systems Analysis and Development. I b
 * <img width="16" src="./Pictures/peru-pn.png" alt="Peru" /> I'm from Peru, but I live in Brazil.
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript.
 * 💻 I Love Programming, and drink Coke.
-* <img width="20" src="./Pictures/linux-ico.png" alt="linux"/> Someone taught me the Linux world in 2019 and so far I can't change it as my default operating system.
+* <img width="20" src="./Pictures/linux-ico.png" alt="linux"/> I'm currently using arch linux as operating system.
 
 
 ### **My Github data**
 
--📜 23 Public Repositories 
+-📜 21 Public Repositories 
 
--🔑 4 Private Repositories  
+-🔑 3 Private Repositories  
