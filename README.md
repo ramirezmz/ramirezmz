@@ -32,7 +32,7 @@ I try to be objective and dedicated to achieve everything I propose.</p></div>
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript, but I don't close the doors to other languages or tools!
 * <img height="24" src="https://img.icons8.com/color/48/000000/teacher.png"/> I got into the job market as a Spanish language teacher, and then I created [spanholandia](https://www.instagram.com/spanholandia/)!.
 
-* <img height="20"  src="https://img.icons8.com/material-rounded/24/4a90e2/arch-linux.png"/> Currently I'm use Arch Linux.
+* <img height="20"  src="https://img.icons8.com/material-rounded/24/4a90e2/arch-linux.png"/> Currently I'm using Arch Linux.
 * <img height="26" src="https://img.icons8.com/fluency/48/26e07f/reading.png"/> The book I'm currently reading: [Eloquent Javascript](https://eloquentjavascript.net/).
 
 ### **My Github data**
