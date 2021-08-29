@@ -1,6 +1,7 @@
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h4>Full-Stack Developer Jr🧑‍💻</h4>
+<h4>Full-Stack Developer Jr🧑‍💻</h4> 
+![](https://visitor-badge.glitch.me/badge?page_id=ramirezmz.ramirezmz)
 <p>My name is Roberto Ramirez! I'm from Peru, but I have been in Brazil for 5 years. Through my wife's influence, I learned how to make my first lines of code and I believe I can't stop programming. I love to learn, talk and listen to! So if you have anything you would like to recommend or would like to learn from me, I have open arms!
 </p>
 
