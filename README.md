@@ -1,7 +1,8 @@
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h4>Full-Stack Developer Jr🧑‍💻</h4> 
-![](https://visitor-badge.glitch.me/badge?page_id=ramirezmz.ramirezmz)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ramirezmz.visitor-badge)
+<h4>Full-Stack Developer Jr🧑‍💻 </h4> 
+
 <p>My name is Roberto Ramirez! I'm from Peru, but I have been in Brazil for 5 years. Through my wife's influence, I learned how to make my first lines of code and I believe I can't stop programming. I love to learn, talk and listen to! So if you have anything you would like to recommend or would like to learn from me, I have open arms!
 </p>
 
@@ -48,8 +49,6 @@
 * 📜 27 Public Repositories.
 
 * 🔑 4 Private Repositories. 
-
-
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&hide=issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
