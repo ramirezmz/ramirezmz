@@ -9,17 +9,17 @@
 
 <h4> Languages and Tools: </h4>
 
-<img height="30" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" title="Reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="30" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="30" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="30" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" title="Styled components" src="https://img.icons8.com/emoji/48/000000/nail-polish-.png">
-<img height="30" title="Linux" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
-<img height="30" title="Mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="30" title="MySQL"  src="https://img.icons8.com/color/48/26e07f/mysql-logo.png"/>
-<img height="30" title="Docker" src="https://img.icons8.com/fluent/48/000000/docker.png"/>
+<code><img height="30" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img height="30" title="Reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img height="30" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img height="30" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
+<code><img height="30" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
+<code><img height="30" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img height="30" title="Styled components" src="https://img.icons8.com/emoji/48/000000/nail-polish-.png" /></code>
+<code><img height="30" title="Linux" src="https://img.icons8.com/color/48/000000/linux--v2.png"/></code>
+<code><img height="30" title="Mongodb" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<code><img height="30" title="MySQL"  src="https://img.icons8.com/color/48/26e07f/mysql-logo.png"/></code>
+<code><img height="30" title="Docker" src="https://img.icons8.com/fluent/48/000000/docker.png"/></code>
 
 
 <h3> About me</h3>
