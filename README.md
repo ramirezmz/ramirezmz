@@ -1,13 +1,11 @@
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ramirezmz.visitor-badge)
-<h4>Full-Stack Developer Jr🧑‍💻 </h4> 
+<img src="./Pictures/ramirezwallpaper.png" />
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ramirezmz.visitor-badge)
 <p>My name is Roberto Ramirez! I'm from Peru, but I have been in Brazil for 5 years. Through my wife's influence, I learned how to make my first lines of code and I believe I can't stop programming. I love to learn, talk and listen to! So if you have anything you would like to recommend or would like to learn from me, I have open arms!
 </p>
 
-
-<img align="right" alt="GIF" width="460" src="./Pictures/wasting_time.gif"/>
 
 <h4> Languages and Tools: </h4>
 
@@ -25,6 +23,8 @@
 
 
 <h3> About me</h3>
+
+<img align="right" alt="GIF" width="460" src="./Pictures/wasting_time.gif"/>
 
 * <img height="22" src="https://img.icons8.com/color/48/fa314a/peru.png"/> I'm from Peru, but I live in Brazil.
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript, but I don't close the doors to other languages or tools!
