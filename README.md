@@ -1,14 +1,34 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+   <a href="https://linkedin.com/in/ramirezmz">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://www.instagram.com/robertopramirez/" target="blank">
+      <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=yellow" />
+   </a>
+   <a href="https://dev.to/ramirezmz" target="blank">
+      <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"/>
+   </a>
+   <a>
+      <img src="https://img.shields.io/badge/discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white"/>
+   </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=ramirezmz&style=flat-square&color=blue" alt=""/>
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-My name is Roberto Ramirez!🧑‍💻 I'm from Peru, but I've been in Brazil since 2016. Under the influence of my wife, I learned to write my first lines of code and to be honest, I don't plan on leaving the programming world anytime soon!
-<img align="right" alt="desktop" width="500" src="./assets/1.png"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+My name is Roberto🧑‍💻 I'm from Peru but I've been in Brazil.
+
 I love to learn and share my knowledges with everyone.
 
-Actually I'm working on *Simbiose Venture* as **Software Quality Assurance**, It's a very gratefull experience and I believe that I have a lot of knowledges to pick up.
+My focus is to be a **Software Enginner** and contribute in projects that have seriosly positive impact in the world.
 
-My focus is to be a Software Enginner and contribute in various projects that have seriosly positive impact in the world.
+### :hammer_and_wrench: Languages and Tools :
 
-
-### Languages and Tools:
 <code>
    <img height="30" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </code>
@@ -40,36 +60,11 @@ My focus is to be a Software Enginner and contribute in various projects that ha
    <img height="30" title="Jenkins" src="https://img.icons8.com/color/48/000000/jenkins.png"/>
 </code>
 
-&nbsp;
-&nbsp;
-&nbsp;
-<div align="left" width="100px">
-<img align="left" alt="desktop" width="400px" src="./assets/3.jpg"/>
-</div>
-<div>
-<h3>About me...</h3>
+## About me...
 
-<p><li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> My favorite programming language is Javascript, but I don't close the doors to other languages or tools!</li></p>
+- :telescope: I’m working as a Software Engineer Jr and contributing to frontend and backend for building web applications.
 
-<p><li><img height="26" src="https://img.icons8.com/fluency/48/26e07f/reading.png"/> The book I'm currently reading: <a src="https://www.amazon.com.br/Getting-Started-Data-successfully-English-ebook/dp/B08NZYCTQT">Getting started with Data</a >, by Simbiose </li></p>
+- :seedling: I love to travel, eat and cook
 
-<p><li>📚 I'm coursing <strong>Analysis and systems development</strong> at the university Estácio de Sa, in Brazil </li></p>
-</div>
+- :zap: In my free time, I watch movies(series, animes or films) and play soccer or videogames.
 
-<div align= "right">
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-
-<a href="https://linkedin.com/in/ramirezmz" target="blank">
-   <img align="center" src="https://img.icons8.com/ios-glyphs/30/4a90e2/linkedin.png" alt="ramirezmz" height="30" width="30" />
-</a>
-<a href="https://www.instagram.com/robertopramirez/" target="blank">
-   <img align="center" src="https://img.icons8.com/fluency/48/4a90e2/instagram-new.png" height="30" width="30" />
-</a>
-<a href="https://dev.to/ramirezmz" target="blank">
-   <img align="center" src="https://img.icons8.com/windows/32/000000/dev.png" alt="ramirezmz" height="30" width="30" />
-</a>
-
-</p>
-</div>
-<h3>Thanks!</h3>
