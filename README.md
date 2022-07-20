@@ -18,14 +18,15 @@
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="./assets/mario-lofi.gif" width="600" height="300"/>
 </div>
 
 My name is Roberto🧑‍💻 I'm from Peru but I've been in Brazil.
 
-I love to learn and share my knowledges with everyone.
+With the influence of my wife, I learned about programming so I'm grateful for her and the people that did teach me and had patience with me.
+I like to share my knowledge, talk, cook, and play some video games.
 
-My focus is to be a **Software Enginner** and contribute in projects that have seriosly positive impact in the world.
+My focus is to be a **Software Engineer** and contribute in projects that have seriously positive impact in the world
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -62,9 +63,8 @@ My focus is to be a **Software Enginner** and contribute in projects that have s
 
 ## About me...
 
-- :telescope: I’m working as a Software Engineer Jr and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer Jr at _Simbiose Ventures_ and contributing to frontend and backend for building web applications.
 
-- :seedling: I love to travel, eat and cook
+- :seedling: I have have a beautiful family!
 
 - :zap: In my free time, I watch movies(series, animes or films) and play soccer or videogames.
-
