@@ -81,4 +81,8 @@ My focus is to be a **Software Engineer** and contribute in projects that have s
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
+- [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
+- [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
+- [How to use printer on Linux](https://dev.to/ramirezmz/how-to-use-printer-on-linux-2b7e)
 <!-- BLOG-POST-LIST:END -->
