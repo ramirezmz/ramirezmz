@@ -68,3 +68,17 @@ My focus is to be a **Software Engineer** and contribute in projects that have s
 - :seedling: I have have a beautiful family!
 
 - :zap: In my free time, I watch movies(series, animes or films) and play soccer or videogames.
+
+## :fire: My stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramirezmz&layout=compact&theme=dracula)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezmz&layout=compact&theme=dracula)](https://github.com/ramirezmz/pokemon-app-vue3)
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
