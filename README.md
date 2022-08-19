@@ -18,56 +18,27 @@
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 <div align="center">
-  <img src="./assets/mario-lofi.gif" width="600" height="300"/>
+  <img src="./assets/mario-lofi.gif" width="700" height="400"/>
 </div>
 
-My name is Roberto🧑‍💻 I'm from Peru but I've been in Brazil.
-
-With the influence of my wife, I learned about programming so I'm grateful for her and the people that did teach me and had patience with me.
-I like to share my knowledge, talk, cook, and play some video games.
-
-My focus is to be a **Software Engineer** and contribute in projects that have seriously positive impact in the world
+My name is Robertopaolo, I'm 24 years old, I'm married and father of a boy. <br />
+I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning experience I had was becoming self-taught. <br />
+I am currently a *Front-end developer* and I have already provided services in an American company, which was fundamental to improve my technical and spoken English.
+My purpose is to be able to contribute to companies and projects that transform people's lives and improve the world.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<code>
-   <img height="30" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</code>
-<code>
-   <img height="30" title="Linux" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
-</code>
-<code>
-   <img height="30" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</code>
-<code>
-   <img height="30" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</code>
-<code>
-   <img height="30" title="MySQL"  src="https://img.icons8.com/color/48/26e07f/mysql-logo.png"/>
-</code>
-<code>
-   <img height="30" title="Docker" src="https://img.icons8.com/fluent/48/000000/docker.png"/>
-</code>
-<code>
-   <img height="30" title="Reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</code>
-<code>
-   <img height="30" title="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-</code>
-<code>
-   <img height="30" title="Cypress" src="./assets/cypress.png" />
-</code>
-<code>
-   <img height="30" title="Jenkins" src="https://img.icons8.com/color/48/000000/jenkins.png"/>
-</code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash" />
+  </a>
+</p>
 
 ## About me...
 
-- :telescope: I’m working as a Software Engineer Jr at _Simbiose Ventures_ and contributing to frontend and backend for building web applications.
-
-- :seedling: I have have a beautiful family!
-
-- :zap: In my free time, I watch movies(series, animes or films) and play soccer or videogames.
+- :telescope: I’m working as a Software Developer at _Simbiose Ventures_ and contributing open source projects for building web applications.
+ 
+- :zap: I like I watch movies, series, animes and play soccer or videogames. (Fortnite, CSGo, 0AD, FIFA)
 
 ## :fire: My stats:
 
