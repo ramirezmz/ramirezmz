@@ -15,6 +15,10 @@
    </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ramirezmz&style=flat-square&color=blue" alt=""/>
+
+[Spanish](./README-sp.md) -
+[Portugues](./README-pt.md)
+
 <h2> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 </div>
 <div align="center">
@@ -22,8 +26,8 @@
 </div>
 
 My name is Robertopaolo, I'm 24 years old, I'm married and father of a boy. <br />
-I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning experience I had was becoming self-taught. <br />
-I am currently a *Front-end developer* and I have already provided services in an American company, which was fundamental to improve my technical and spoken English.
+I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning I had was to create an application from scratch until it became a solution for many people <br />
+I am currently a _Front-end developer_ and I have already provided services in an American company, which was fundamental to improve my technical and spoken English.
 My purpose is to be able to contribute to companies and projects that transform people's lives and improve the world.
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,8 +40,8 @@ My purpose is to be able to contribute to companies and projects that transform 
 
 ## About me...
 
-- :telescope: I’m working as a Software Developer at _Simbiose Ventures_ and contributing open source projects for building web applications.
- 
+- :telescope: I work as a software developer at _Simbiose Ventures_ and contribute to open source projects in various communities
+
 - :zap: I like I watch movies, series, animes and play soccer or videogames. (Fortnite, CSGo, 0AD, FIFA)
 
 ## :fire: My stats:
@@ -46,12 +50,12 @@ My purpose is to be able to contribute to companies and projects that transform 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezmz&layout=compact&theme=dracula)](https://github.com/ramirezmz/pokemon-app-vue3)
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
 - [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
 - [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
