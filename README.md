@@ -55,7 +55,6 @@ My purpose is to be able to contribute to companies and projects that transform 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
 - [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
 - [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
