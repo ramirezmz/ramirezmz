@@ -26,11 +26,15 @@
 </div>
 
 My name is Robertopaolo, I'm 24 years old, I'm married and father of a boy. <br />
+<<<<<<< Updated upstream
 I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning I had was to create an application from scratch until it became a solution for many people <br />
+=======
+I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning experience I had was becoming self-taught. <br />
+>>>>>>> Stashed changes
 I am currently a _Front-end developer_ and I have already provided services in an American company, which was fundamental to improve my technical and spoken English.
 My purpose is to be able to contribute to companies and projects that transform people's lives and improve the world.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,11 +42,21 @@ My purpose is to be able to contribute to companies and projects that transform 
   </a>
 </p>
 
-## About me...
+## :speaking_head: About me:
 
+- :deciduous_tree: I'm from Peru, Lima, but since 2016 I live in Brazil, Rio de Janeiro.
+
+<<<<<<< Updated upstream
 - :telescope: I work as a software developer at _Simbiose Ventures_ and contribute to open source projects in various communities
 
 - :zap: I like I watch movies, series, animes and play soccer or videogames. (Fortnite, CSGo, 0AD, FIFA)
+=======
+- :telescope: I’m working as a Software Developer at _Simbiose Ventures_ and contributing open source projects for building web applications.
+
+- :zap: I like watch movies, series, animes and to play soccer or videogames. (Fortnite, CSGo, 0AD, FIFA)
+
+- :baby: I was blessed with a wonderful wife and a cute son!
+>>>>>>> Stashed changes
 
 ## :fire: My stats:
 
@@ -55,8 +69,16 @@ My purpose is to be able to contribute to companies and projects that transform 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< Updated upstream
 - [Como configurar o git pela primeira vez? - Ambiente Linux](https://dev.to/ramirezmz/como-configurar-o-git-pela-primeira-vez-4lp6)
 - [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
 - [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
 - [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
+=======
+
+- [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
+- [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
+- [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
+- [How to use printer on Linux](https://dev.to/ramirezmz/how-to-use-printer-on-linux-2b7e)
+>>>>>>> Stashed changes
 <!-- BLOG-POST-LIST:END -->
