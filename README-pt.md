@@ -38,11 +38,15 @@ Meu propósito é poder contribuir com empresas e projetos que transformem a vid
   </a>
 </p>
 
-## Sobre mim...
+## :speak_no_evil: Sobre mim...
+
+- :deciduous_tree: Sou de nacionalidade peruana, mas desde 2016 moro no Brasil, Rio de Janeiro.
 
 - :telescope: Trabalho como desenvolvedor de software na _Simbiose Ventures_ e contribuo com projetos de código aberto em várias comunidades
 
 - :zap: Gosto de assistir filmes, séries, animes e jogar futebol ou videogame. (Fortnite, CSGo, 0AD, FIFA)
+  
+- :baby: Fui abençoado com uma maravilhosa esposa e um belo filho!
 
 ## :fire: Meus status:
 
@@ -55,9 +59,4 @@ Meu propósito é poder contribuir com empresas e projetos que transformem a vid
 ### :writing_hand: Últimos post no meu BLOG :
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
-- [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
-- [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
-- [How to use printer on Linux](https://dev.to/ramirezmz/how-to-use-printer-on-linux-2b7e)
 <!-- BLOG-POST-LIST:END -->

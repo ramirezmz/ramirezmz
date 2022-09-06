@@ -38,7 +38,7 @@ My purpose is to be able to contribute to companies and projects that transform 
   </a>
 </p>
 
-## About me...
+## :speak_no_evil: About me...
 
 - :deciduous_tree: I'm from Peru, Lima, but since 2016 I live in Brazil, Rio de Janeiro.
 
@@ -59,8 +59,4 @@ My purpose is to be able to contribute to companies and projects that transform 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My first CRUD in Python](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
-- [How to configure git for the first time? - Linux environment](https://dev.to/ramirezmz/como-configurar-o-git-pela-primeira-vez-4lp6)
-- [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
-- [Set new resolution on Linux - Force](https://dev.to/ramirezmz/set-new-resolution-on-linux-force-odl)
 <!-- BLOG-POST-LIST:END -->
