@@ -60,7 +60,7 @@ My purpose is to be able to contribute to companies and projects that transform 
 
 <!-- BLOG-POST-LIST:START -->
 - [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
-- [My first CRUD in Python](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
+- [My first CRUD in Python without ORM](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
 - [How to configure git for the first time? - Linux environment](https://dev.to/ramirezmz/como-configurar-o-git-pela-primeira-vez-4lp6)
 - [How to fix a commit?](https://dev.to/ramirezmz/how-to-fix-a-commit-blh)
 <!-- BLOG-POST-LIST:END -->
