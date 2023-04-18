@@ -58,4 +58,5 @@ My purpose is to be able to contribute to companies and projects that transform 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
