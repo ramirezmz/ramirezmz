@@ -54,8 +54,6 @@ Meu propósito é poder contribuir com empresas e projetos que transformem a vid
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezmz&layout=compact&theme=dracula)](https://github.com/ramirezmz/pokemon-app-vue3)
-
 ### :writing_hand: Últimos post no meu BLOG :
 
 <!-- BLOG-POST-LIST:START -->
