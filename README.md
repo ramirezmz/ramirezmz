@@ -58,8 +58,8 @@ My purpose is to be able to contribute to companies and projects that transform 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Free up storage space in Linux](https://dev.to/ramirezmz/free-up-storage-space-in-linux-2bne)
 - [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
 - [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
 - [My first CRUD in Python without ORM](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
-- [How to configure git for the first time? - Linux environment](https://dev.to/ramirezmz/como-configurar-o-git-pela-primeira-vez-4lp6)
 <!-- BLOG-POST-LIST:END -->
