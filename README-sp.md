@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ramirezmz&style=flat-square&color=blue" alt=""/>
 
 [Portugues](./README-pt.md) -
 [English](./README.md)
@@ -25,33 +24,31 @@
   <img src="./assets/mario-lofi.gif" width="700" height="400"/>
 </div>
 
-Mi nombre es Robertopaolo, tengo 24 años, estoy casado y soy padre de un niño. <br />
-Empecé mi carrera profesional como desarrollador en 2020, superé grandes retos y el mayor aprendizaje que tuve fue crear una aplicación desde cero hasta convertirla en una solución para muchas personas <br />
-Actualmente soy _Front-end developer_ y ya trabajé para una empresa americana, lo cual fue fundamental para mejorar mi inglés técnico y hablado.
-Mi propósito es poder contribuir con empresas y proyectos que transformen la vida de las personas y mejoren el mundo.
+<div align="center">
+<strong>Ingeniero de Software</strong> con más de 3 años de experiencia en desarrollo full-stack, especializado en automatización, calidad de software y soluciones escalables. Graduado en Análisis de Sistemas, fui responsable de la entrega de proyectos impactantes, como la implementación de IA en Layers, optimización de sistemas para el monitoreo de marcas y automatización de procesos en 2Z Soluciones. Tengo un sólido historial en liderazgo técnico, arquitectura de software y mejora del rendimiento en aplicaciones de alta complejidad.
+</div>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,postgresql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash,nuxt,sqlite" />
   </a>
 </p>
 
 ## :speak_no_evil: Sobre mi...
-- :deciduous_tree: Soy peruano, pero desde 2016 vivo en Brasil, Rio de Janeiro.
+- :deciduous_tree: Soy peruano, pero desde 2016 vivo en Brasil :heart:.
+- :telescope: Trabajo como Ingeniero de Software en [Layers](https://layers.education/).
+- :seedling: Con mi esposa, fundamos una pequeña empresa llamada [2Z Soluciones](https://2zsolutions.com.br/), donde desarrollamos soluciones de software para pequeñas y medianas empresas.
 
-- :telescope: Trabajo como desarrollador de software en _Simbiose Ventures_ y contribuyo con proyectos de código abierto en diversas comunidades
+## :fire: My stats:
 
-- :zap: Me gusta ver películas, series, animes y jugar fútbol o videojuegos. (Fortnite, CSGo, 0AD, FIFA)
+ <div align="center" >
+   <img src="https://github-profile-trophy.vercel.app/?username=ramirezmz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
-- :baby: ¡Fui bendecido con una esposa maravillosa y un hijo lindo!
-
-## :fire: Mi status:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramirezmz&layout=compact&theme=dracula)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramirezmz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramirezmz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 
 ### :writing_hand: Post en el BLOG :

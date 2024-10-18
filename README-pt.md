@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ramirezmz&style=flat-square&color=blue" alt=""/>
 
 [Spanish](./README-sp.md) -
 [English](./README.md)
@@ -25,34 +24,31 @@
   <img src="./assets/mario-lofi.gif" width="700" height="400"/>
 </div>
 
-Meu nome é Robertopaolo, tenho 24 anos, sou casado e pai de um menino. <br />
-Comecei minha carreira profissional como desenvolvedor em 2020, superei grandes desafios e o maior aprendizado que tive foi criar um aplicativo do zero até se tornar uma solução para muitas pessoas <br />
-Atualmente sou _Front-end developer_ e já prestei serviços em uma empresa americana, o que foi fundamental para aprimorar meu inglês técnico e falado.
-Meu propósito é poder contribuir com empresas e projetos que transformem a vida das pessoas e melhorem o mundo.
+<div align="center">
+<strong>Engenheiro de Software</strong> com mais de 3 anos de experiência em desenvolvimento full-stack, especializado em automação, qualidade de software e soluções escaláveis. Graduado em Análise de Sistemas, fui responsável pela entrega de projetos impactantes, como a implementação de IA na Layers, otimização de sistemas para monitoramento de marcas e automação de processos na 2Z Soluções. Tenho um histórico sólido em liderança técnica, arquitetura de software e melhoria de desempenho em aplicações de alta complexidade.
+</div>
 
 ### :hammer_and_wrench: Lenguagens e ferramentas :
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,postgresql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash,nuxt,sqlite" />
+</a>
 
 ## :speak_no_evil: Sobre mim...
 
-- :deciduous_tree: Sou de nacionalidade peruana, mas desde 2016 moro no Brasil, Rio de Janeiro.
+- :deciduous_tree: Sou do Peru, mas desde 2016 moro no Brasil :heart:.
+- :telescope: Estou trabalhando como Engenheiro de Software na [Layers](https://layers.education/).
+- :seedling: Com minha esposa, fundamos uma pequena empresa chamada [2Z Soluções](https://2zsolutions.com.br/), onde desenvolvemos soluções de software para pequenas e médias empresas.
 
-- :telescope: Trabalho como desenvolvedor de software na _Simbiose Ventures_ e contribuo com projetos de código aberto em várias comunidades
+## :fire: My stats:
 
-- :zap: Gosto de assistir filmes, séries, animes e jogar futebol ou videogame. (Fortnite, CSGo, 0AD, FIFA)
-  
-- :baby: Fui abençoado com uma maravilhosa esposa e um belo filho!
+ <div align="center" >
+   <img src="https://github-profile-trophy.vercel.app/?username=ramirezmz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
-## :fire: Meus status:
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramirezmz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramirezmz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramirezmz&layout=compact&theme=dracula)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
 
 ### :writing_hand: Últimos post no meu BLOG :
 

@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/discord-lightgrey?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ramirezmz&style=flat-square&color=blue" alt=""/>
 
 [Spanish](./README-sp.md) -
 [Portugues](./README-pt.md)
@@ -25,41 +24,33 @@
   <img src="./assets/mario-lofi.gif" width="700" height="400"/>
 </div>
 
-My name is Robertopaolo, I'm 24 years old, I'm married and father of a boy. <br />
-I started my professional career as a developer in 2020, I overcame great challenges and the biggest learning I had was to create an application from scratch until it became a solution for many people <br />
-I am currently a _Front-end developer_ and I have already provided services in an American company, which was fundamental to improve my technical and spoken English.
-My purpose is to be able to contribute to companies and projects that transform people's lives and improve the world.
+<div align="center">
+<strong>Software Engineer</strong> with over 3 years of experience in full-stack development, specializing in automation, software quality, and scalable solutions. With a degree in Systems Analysis, I was responsible for delivering impactful projects such as AI implementation at Layers, system optimization for brand monitoring, and process automation at 2Z Solutions. I have a solid background in technical leadership, software architecture, and performance improvements in highly complex applications.
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,html,css,python,typescript,react,vue,mysql,postgresql,git,jest,vite,sass,nodejs,nextjs,materialui,md,linux,jenkins,gcp,figma,emotion,docker,bash,nuxt,sqlite" />
+</a>
 
 ## :speak_no_evil: About me...
 
-- :deciduous_tree: I'm from Peru, Lima, but since 2016 I live in Brazil, Rio de Janeiro.
-
-- :telescope: I’m working as a Software Developer at _Simbiose Ventures_ and contributing open source projects for building web applications.
-
-- :zap: I like watch movies, series, animes and to play soccer or videogames. (Fortnite, CSGo, 0AD, FIFA)
-
-- :baby: I was blessed with a wonderful wife and a cute son!
+- :deciduous_tree: I'm from Peru, but since 2016 I live in Brazil :heart:.
+- :telescope: I’m working as a Software Engineer at [Layers](https://layers.education/).
+- :seedling: With my wife, we founded a small company called [2Z Solutions](https://2zsolutions.com.br/), where we develop software solutions for small and medium-sized companies.
 
 ## :fire: My stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramirezmz&layout=compact&theme=dracula)](https://git.io/streak-stats)
+ <div align="center" >
+   <img src="https://github-profile-trophy.vercel.app/?username=ramirezmz&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezmz&count_private=true&layout=compact&theme=dracula)
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramirezmz&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramirezmz&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free up storage space in Linux](https://dev.to/ramirezmz/free-up-storage-space-in-linux-2bne)
-- [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
-- [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
-- [My first CRUD in Python without ORM](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
 <!-- BLOG-POST-LIST:END -->
