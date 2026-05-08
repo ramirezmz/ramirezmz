@@ -53,8 +53,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Da internet pública ao VPC Peering: Estratégia de redução de custos na Onooma](https://dev.to/ramirezmz/da-internet-publica-ao-vpc-peering-estrategia-de-reducao-de-custos-na-onooma-2b1k)
 - [Free up storage space in Linux](https://dev.to/ramirezmz/free-up-storage-space-in-linux-2bne)
 - [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
 - [Triangle with loop](https://dev.to/ramirezmz/triangle-with-loop-5b13)
-- [My first CRUD in Python without ORM](https://dev.to/ramirezmz/my-first-crud-in-python-1f5n)
 <!-- BLOG-POST-LIST:END -->
